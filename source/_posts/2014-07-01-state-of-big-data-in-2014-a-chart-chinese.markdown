@@ -23,8 +23,8 @@ author: Xingjian Pan
 从我第一次尝试为繁荣发展的大数据生态系统绘制一张信息图已经过去了两年， 而这期间大数据行业发生了很多巨大的变化。 我早就该对这张图做一个更新，现在终于完成了。
 
 
- <img width="600" height="400" src="https://raw.githubusercontent.com/xingjianpan/xingjianpan.github.io/master/2014/07/01/state-of-big-data-in-2014-a-chart-chinese/big_data_map.png"> 
 
+![img](./big_data_map.png)
 
 
 从VC的角度，我想谈谈对这张图以及大数据行业的一些想法：
