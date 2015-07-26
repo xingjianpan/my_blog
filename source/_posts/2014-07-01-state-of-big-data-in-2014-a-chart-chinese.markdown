@@ -24,7 +24,7 @@ author: Xingjian Pan
 
 
 
-![img](./big_data_map.png)
+![img](https://raw.githubusercontent.com/xingjianpan/my_blog/master/source/_posts/big_data_map.png)
 
 
 从VC的角度，我想谈谈对这张图以及大数据行业的一些想法：
