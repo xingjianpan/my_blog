@@ -11,7 +11,7 @@ author: Xingjian Pan
 
 ### 文化地图
 
-![以色列和俄罗斯的管理文化差异](https://raw.githubusercontent.com/xingjianpan/xingjianpan.github.io/master/_posts/culture.jpg)
+![以色列和俄罗斯的管理文化差异](https://raw.githubusercontent.com/xingjianpan/my_blog/master/source/_posts/culture.jpg)
 
 
 
