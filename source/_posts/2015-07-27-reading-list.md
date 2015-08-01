@@ -1,4 +1,4 @@
-title: 2015-07-07-reading-list.md
+title: 2015-07-27-reading-list
 date: 2015-07-27 21:09:19
 tags: [reading list]
 ---
