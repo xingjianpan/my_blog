@@ -8,7 +8,7 @@ title: Xingjian Pan (潘星键)
 subtitle:
 description: Xingjian Pan's personal blog
 author: Xingjian Pan
-language:
+language: zh-Hans
 timezone:
 
 # URL
@@ -69,25 +69,18 @@ theme: next
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:git
-  repo:git@github.com:xingjianpan/xingjianpan.github.io.git
-  branch:master
+  type: git
+  repo: git@github.com:xingjianpan/xingjianpan.github.io.git
+  branch: master
 
 # Markdown-it config
 ## Docs: https://github.com/celsomiranda/hexo-renderer-markdown-it/wiki/
-markdown: 'default'
-markdown:
-  plugins:
-    - markdown-it-footnote
+# markdown: 'default'
+# markdown:
+#   plugins:
+#     - markdown-it-footnote
 
 
-# 菜单配置
-menu:
-  home: /
-  archives: /archives
-  categories: /categories
-  tags: /tags
-  about: /about
 
 
 baidu_analytics: f13420a5837d5f1c8d710446e33281ed
